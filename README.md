@@ -4,4 +4,4 @@ This case study is about finding the factors that influence the popularity of ar
 
 The dataset contains various attributes related to the online articles published by Mashable which is taken from UCI Machine Learning Repository.
 
-This repository contains all the files related to exploratory data analysis, building machine learning models and tuning them to enhance the perfromance of the models.
+This repository contains all the files related to exploratory data analysis, building machine learning models, feature selection techniques used and hyperparameter tuning to enhance the perfromance of the models.
